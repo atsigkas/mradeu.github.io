@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Menelaos Radisis
     tagline: Software Developer
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: menelaos@radisis.eu
@@ -25,14 +25,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      - idiom: Greek
+        level: Native
+
       - idiom: English
         level: Fluent
 
-      - idiom: Italian
-        level: Native
-
       - idiom: German
-        level: Colloquial
+        level: Basic
 
     interests:
       - item: Guitar
@@ -51,41 +51,41 @@ career-profile:
       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
       Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
 
-news:
-    title: News
-    intro: |
+#news:
+#    title: News
+#    intro: |
         
     
-    posts:
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
+#    posts:
+#        - time: February 2020
+#          title: The work done during my internship was accepted as publication at CVPR 2020
+#          
+#        - time: July 2019
+#          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#        - time: July 2019
+#          title: One paper accepted at ICCV19
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
-          
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
+#        - time: January 2019
+#          title: Selected as reviewer for ICCV19
         
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
+#        - time: December 2018
+#          title: Selected as reviewer for CVPR19
         
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#        - time: Sptember 2018
+#          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#        - time: July 2018
+#          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
         
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#        - time: 2018
+#          title: Paper accepted as poster at ECCV18 in Munich, Germany
         
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#        - time: 2017
+#          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
         
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+#        - time: 2017
+#          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
     - degree: Applied Scientists Intern at Amazon AWS
